@@ -7,7 +7,7 @@ It comes with a sample contract, a test for that contract, and a script that dep
 
 To run it:
 
-1. Rename .env.exemple file to .env
+1. Rename .env.example file to .env
 2. Fill the .env file with the private key of a metamask's wallet (with no real fund on it!! https://goerlifaucet.com/)
 3. Fill the .env file with an etherscan api key : https://etherscan.io/myapikey
 4. Fill the .env file with a coinmarketcap api key : https://pro.coinmarketcap.com/account
